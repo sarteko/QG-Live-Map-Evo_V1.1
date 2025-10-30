@@ -14,14 +14,14 @@ An optimized version of the real-time map, specifically developed for our team's
 - **Cover system**: Players undercover appear in purple instead of blue
 - **Optimized briefing**: Uses the largest available monitor in-game
 
-### Version 1.1
+### Version 1.1 (29/10/2025)
 - ✅ Fixed player name formatting
 - ✅ Restored the ability to view BLUFORCE AI
 - ✅ Added ability to view (with red cross) player or drone laser designators. The name of the player or drone is included between the {}
 
-## Versione 1.5
+## Versione 1.5 (30/10/2025)
 
-- ✅ When you access Change Map Location, if you right-click a player, some minimal information about their health and GPS coordinates will appear in the top right corner. (30/10/2025)
+- ✅ When you access Change Map Location, if you right-click a player, some minimal information about their health and GPS coordinates will appear in the top right corner.
 
 ## 🤝 Credits
 
