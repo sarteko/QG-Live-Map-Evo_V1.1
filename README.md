@@ -4,8 +4,24 @@ An optimized version of the real-time map, specifically developed for our team's
 
 ## 🖼️ Preview
 
-*Insert screenshots or GIFs of the map in action*
-*(Example: Map with real-time tracking, direction indicators, and undercover system)*
+![COVER](https://github.com/user-attachments/assets/362a8aba-373e-42e1-9839-d72599b24b1d)
+
+VIEW BLUFOR
+![BLUFORCE](https://github.com/user-attachments/assets/21937959-1b75-4f90-8f69-8c5061adb3e5)
+
+VIEW CIV
+![CIV](https://github.com/user-attachments/assets/735cfc54-0fe5-4e4c-aa38-eec5fcc6fb54)
+
+VIEW Change map location right mouse button function on the player.
+<img width="960" height="540" alt="sc4" src="https://github.com/user-attachments/assets/f607e336-d921-4f1b-a118-1441cf95ba4f" />
+
+VIEW LASER UAV/PLAYER
+<img width="960" height="540" alt="sc3" src="https://github.com/user-attachments/assets/315b564d-5ccc-41b8-82b9-7b201b3b99f9" />
+
+ON/OFF LASER for LASER or AI
+<img width="960" height="540" alt="sc1" src="https://github.com/user-attachments/assets/865b4ace-d297-4da9-ba25-03a8e8352281" />
+
+
 
 ## ✨ Key Features
 
