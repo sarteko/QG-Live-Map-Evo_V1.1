@@ -18,7 +18,7 @@ VIEW Change map location right mouse button function on the player.
 VIEW LASER UAV/PLAYER
 <img width="960" height="540" alt="sc3" src="https://github.com/user-attachments/assets/315b564d-5ccc-41b8-82b9-7b201b3b99f9" />
 
-ON/OFF LASER for LASER or AI
+ON/OFF for LASER or AI
 <img width="960" height="540" alt="sc1" src="https://github.com/user-attachments/assets/865b4ace-d297-4da9-ba25-03a8e8352281" />
 
 
