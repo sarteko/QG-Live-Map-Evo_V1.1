@@ -7,9 +7,11 @@ An optimized version of the real-time map, specifically developed for our team's
 ![COVER](https://github.com/user-attachments/assets/362a8aba-373e-42e1-9839-d72599b24b1d)
 
 VIEW BLUFOR
+
 ![BLUFORCE](https://github.com/user-attachments/assets/21937959-1b75-4f90-8f69-8c5061adb3e5)
 
 VIEW CIV
+
 ![CIV](https://github.com/user-attachments/assets/735cfc54-0fe5-4e4c-aa38-eec5fcc6fb54)
 
 VIEW Change map location right mouse button function on the player.
