@@ -38,9 +38,7 @@ ON/OFF for LASER or AI
 - ✅ Fixed player name formatting
 - ✅ Restored the ability to view BLUFORCE AI
 - ✅ Added ability to view (with red cross) player or drone laser designators. The name of the player or drone is included between the {}
-
 ## Versione 1.5 (30/10/2025)
-
 - ✅ When you access Change Map Location, if you right-click a player, some minimal information about their health and GPS coordinates will appear in the top right corner.
 
 ## 🤝 Credits
