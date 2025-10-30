@@ -19,6 +19,10 @@ An optimized version of the real-time map, specifically developed for our team's
 - ✅ Restored the ability to view BLUFORCE AI
 - ✅ Added ability to view (with red cross) player or drone laser designators. The name of the player or drone is included between the {}
 
+## Versione 1.5
+
+- ✅ When you access Change Map Location, if you right-click a player, some minimal information about their health and GPS coordinates will appear in the top right corner. (30/10/2025)
+
 ## 🤝 Credits
 
 **Based on mod by**: Z.A.M. Arma  
